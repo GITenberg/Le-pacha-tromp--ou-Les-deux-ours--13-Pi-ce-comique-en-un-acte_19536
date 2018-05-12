@@ -1,0 +1,27 @@
+_repo: Le-pacha-tromp--ou-Les-deux-ours--13-Pi-ce-comique-en-un-acte_19536
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doin, Ernest
+    birthdate: 1809
+    deathdate: 1891
+    gutenberg_agent_id: '4792'
+    url: http://www.gutenberg.org/2009/agents/4792
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2006-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19536'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French-Canadian drama'
+title: "Le pacha trompé ou Les deux ours\r\nPièce comique en un acte"
+url: http://www.gutenberg.org/ebooks/19536
