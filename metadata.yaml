@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4792'
     url: http://www.gutenberg.org/2009/agents/4792
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19536#Le-pacha-tromp--ou-Les-deux-ours--13-Pi-ce-comique-en-un-acte
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2006-10-13'
 gutenberg_type: Text
